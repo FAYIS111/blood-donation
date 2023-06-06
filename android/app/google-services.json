@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762118453798",
+    "project_id": "blood-donation-app-fd24f",
+    "storage_bucket": "blood-donation-app-fd24f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762118453798:android:ca658bd4e2d65b6fd1c4e7",
+        "android_client_info": {
+          "package_name": "com.example.miracle_aqua_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762118453798-ea77pp7h55vfvobt627gqslahlempmpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbTOsU7voMKw3EpK8hQ6E8ztXhSPmSP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762118453798-ea77pp7h55vfvobt627gqslahlempmpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
